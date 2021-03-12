@@ -1,0 +1,10 @@
+[package]
+name = "braille-rs"
+version = "0.1.0"
+authors = ["3akur6 <464074069@qq.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+byteorder = "1.4.2"
