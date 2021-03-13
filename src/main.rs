@@ -43,4 +43,5 @@ fn main() {
             "strcmp-like gadgets: \n{}",
             braille.get_strcmp_plt_items().unwrap()
         );
+    }
 }

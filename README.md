@@ -8,6 +8,6 @@ this exploit technique is clearly demonstrated in the paper '[Hacking Blind](htt
 
 TODO
 ----
-1) refact single thread to multithread in intensive IO operations
+1) refactor single thread to multithread in intensive IO operations
 2) find new ways to locate useful gadgets more precisely
 3) reconstruct code to be more 'Rustacean' (laugh~~)
